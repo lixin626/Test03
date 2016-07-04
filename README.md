@@ -1,3 +1,7 @@
 # Test03
 java develop
-hi world
+<<<<<<< HEAD
+hello world
+=======
+hello world
+>>>>>>> feature01
